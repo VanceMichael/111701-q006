@@ -1,0 +1,8 @@
+{
+  "source": "sample-6",
+  "observedAt": "2026-11-17T08:00:00.000Z",
+  "items": [
+    {"id": "6-A", "label": "供水服务窗口样例甲", "state": "active", "revision": 1},
+    {"id": "6-B", "label": "供水服务窗口样例乙", "state": "pending", "revision": 1}
+  ]
+}
